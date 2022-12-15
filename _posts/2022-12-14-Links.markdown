@@ -9,5 +9,5 @@ categories: jekyll update
 [Final Presentation Slides][slides]
 
 [github-url]:  https://github.com/cennettugce/ecg_GAN.git
-[slides]:   https://github.com/jekyll/jekyll
+[slides]:   https://docs.google.com/presentation/d/1IxLYXrXl3S2e92SNNIM4MWbC-1WgT72S/edit?usp=sharing&ouid=102486251546558444659&rtpof=true&sd=true
 
