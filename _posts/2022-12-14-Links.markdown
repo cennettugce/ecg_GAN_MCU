@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Links"
+date:   2022-12-14 09:04:52 -0800
+categories: jekyll update
+--- 
+[View the Project on GitHub][github-url]
+
+[Final Presentation Slides][slides]
+
+[github-url]:  https://github.com/cennettugce/ecg_GAN.git
+[slides]:   https://github.com/jekyll/jekyll
+
